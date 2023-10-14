@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Farhan Audianto
 
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently in charge as Flutter Front-End Developer (as intern 😊)
+- 🌱 I’m currently in charge as Flutter Front-End Developer
 - ⚡ Fun fact: I stream on [twitch](https://www.twitch.tv/fhaarn) and sometimes upload video on [youtube](https://www.youtube.com/channel/UCCQ9Egx2aKY1pQOUQQTe8Bg) :)
 
 ### Connect with me:
